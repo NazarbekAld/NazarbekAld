@@ -4,17 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazarbekald&label=Profile%20visitors&color=b0b0b0&style=flat-square" alt="nazarbekald" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazarbekald" alt="nazarbekald" /></a> </p>
-
-- 🔨 I’m currently working on [SurvivalCore](https://github.com/NazarbekAld/SurvivalCore)
-
-- 🌱 I’m currently learning **Nukkit(McBedrock), Java, JavaScript**
-
-- 🙌 I’m looking for help with [SurvivalCore](https://github.com/NazarbekAld/SurvivalCore)
-
-- 💬 Ask me about **Java, spigot, maven**
-
-- 📫 How to reach me **nazaralda74dev@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/NYdnJK5xwk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NYdnJK5xwk" height="30" width="40" /></a>
